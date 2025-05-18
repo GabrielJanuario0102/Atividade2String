@@ -1,4 +1,4 @@
-let texto = '' //criei uma variável para receber o texto.
+let texto = ''; //criei uma variável para receber o texto.
 let VerificarVazia = function(variavel) { //criei uma função expression que recebe apenas um parâmetro.
     if (variavel === '') { //usei um if para verificar se a string está vazia.
         return true //caso verdadeiro, retornará true.
