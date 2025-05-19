@@ -1,0 +1,1 @@
+Esse arquivo(aviso.txt) foi criado apenas para possibilitar a visualização dos seguintes diretórios: 'assets' e 'imagens', no github.
